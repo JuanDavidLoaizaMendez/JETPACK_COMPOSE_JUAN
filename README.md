@@ -51,13 +51,13 @@
 
 - Habilitar el tema oscuro
   
-![img11](https://github.com/JuanDavidLoaizaMendez/JETPACK_COMPOSE_JUAN/assets/127984963/55ab0c3e-e93c-40c9-a210-a10ea811b8c4)
+![img12](https://github.com/JuanDavidLoaizaMendez/JETPACK_COMPOSE_JUAN/assets/127984963/7a256fa0-8586-47c0-a79b-f879a7b436a8)
 
 # LECCION 4
 
 - Crea una lista de mensajes
   
-![img12](https://github.com/JuanDavidLoaizaMendez/JETPACK_COMPOSE_JUAN/assets/127984963/7a256fa0-8586-47c0-a79b-f879a7b436a8)
+![img13](https://github.com/JuanDavidLoaizaMendez/JETPACK_COMPOSE_JUAN/assets/127984963/202a4f44-c5de-400e-9033-f9b940957c52)
 
 - Agrega animaciones cuando se expandan los mensajes
 
